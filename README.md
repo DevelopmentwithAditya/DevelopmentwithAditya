@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @developmentwithaditya
+- 👋 Hi, I’m Aditya Choudhary
 - 👀 I’m interested in to create solutions for a real world problem through my code & my thinking
 - 🌱 I’m currently learning Data Structure & Algorithms
 - 💞️ Seeking Collaborative Partner for Active Learning: Pair Programming and DSA 
